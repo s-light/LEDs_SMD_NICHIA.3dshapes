@@ -1,0 +1,2 @@
+# LEDs_SMD_NICHIA.3dshapes
+NICHIA LEDs
